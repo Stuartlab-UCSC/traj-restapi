@@ -1,0 +1,10 @@
+Node naming key:
+    
+    First letter describes general topology.
+        t == tree, c == cycle, l == linear
+    
+    -iX is an identifier, it just makes the node name unique.
+
+    For tree topology there is a -dX where X is the depth of the node in the tree (root is 0)
+
+     

@@ -1,0 +1,15 @@
+t3-d0-i0	t3-d1-i0	1
+t3-d0-i0	t3-d1-i1	1
+t3-d1-i0	t3-d2-i0	1
+t3-d1-i0	t3-d2-i1	1
+t3-d1-i1	t3-d2-i2	1
+t3-d1-i1	t3-d2-i3	1
+t3-d2-i0	t3-d3-i0	1
+t3-d2-i0	t3-d3-i1	1
+t3-d2-i1	t3-d3-i2	1
+t3-d2-i1	t3-d3-i3	1
+t3-d2-i2	t3-d3-i4	1
+t3-d2-i2	t3-d3-i5	1
+t3-d2-i3	t3-d3-i6	1
+t3-d2-i3	t3-d3-i7	1
+
